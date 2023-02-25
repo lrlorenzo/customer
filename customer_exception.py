@@ -1,0 +1,2 @@
+class CustomerException(Exception):
+    pass
